@@ -1,3 +1,6 @@
+<img width="532" alt="image" src="https://github.com/balogsun/DevSecOps-Content-Delivery/assets/125329091/f3a6c503-0140-415b-a6ae-b87e088c696f">
+
+
 Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
 
 ### **Phase 1: Initial Setup and Deployment**
